@@ -21,7 +21,7 @@ repository               : "rohanvaradaraj/rohanvaradaraj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/20240513_104808.jpg"
+  avatar           : "files/20240513_104808.jpg"
   name             : "Rohan Gadiyar Varadaraj"
   pronouns         : "he/him"  
   bio              : "PhD student studying high-redshift galaxies with ground-based telescope, JWST and Euclid."

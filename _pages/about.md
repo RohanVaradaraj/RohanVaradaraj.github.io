@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
+## About me
+
 I am a PhD student at the University of Oxford working on the evolution of galaxies in the first 1.5 billion years of the Universe. 

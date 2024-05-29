@@ -24,7 +24,7 @@ author:
   avatar           : "20240513_104808.png"
   name             : "Rohan Gadiyar Varadaraj"
   pronouns         : "he/him"  
-  bio              : "PhD student studying high-redshift galaxies with ground-based telescope, JWST and Euclid."
+  bio              : #"PhD student studying high-redshift galaxies with ground-based telescope, JWST and Euclid."
   location         : "Oxford"
   employer         : "University of Oxford"
   uri              : # URL

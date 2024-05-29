@@ -11,6 +11,10 @@ You can also find my articles on [NASA ADS](https://ui.adsabs.harvard.edu/search
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications_first_author reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.publications_contributing_author reversed %}
   {% include archive-single.html %}
 {% endfor %}

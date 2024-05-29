@@ -10,7 +10,7 @@
 locale                   : "en-GB"
 title                    : "Rohan Gadiyar Varadaraj"
 title_separator          : "-"
-name                     : &name "Rohan Gadiyar Varadaraj"
+name                     : &name "Rohan Varadaraj"
 description              : &description "personal description"
 url                      : https://rohanvaradaraj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "20240513_104808.png"
   name             : "Rohan Gadiyar Varadaraj"
-  pronouns         : "he/him"  
+  pronouns         : "he/him"
   bio              : #"PhD student studying high-redshift galaxies with ground-based telescope, JWST and Euclid."
   location         : "Oxford"
   employer         : "University of Oxford"
